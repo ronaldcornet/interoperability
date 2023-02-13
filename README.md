@@ -1,4 +1,4 @@
-# interoperability
+# Interoperability
 
 So many resources, so little oversight. Trying to fix that, as least for myself, and for all interested.
 
