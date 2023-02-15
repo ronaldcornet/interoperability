@@ -2,6 +2,7 @@
 
 So many resources, so little oversight. Trying to fix that, as least for myself, and for all interested.
 
+* DASH:[https://datashapes.org/dash](Data Shapes Vocabulary)
 * DID: [Decentralized Identifiers](https://www.w3.org/TR/did-core/)
 * DQV: [Data Quality Vocabulary](https://www.w3.org/TR/vocab-dqv/)
 * DUO: [Data Use Ontology](https://obofoundry.org/ontology/duo.html)
