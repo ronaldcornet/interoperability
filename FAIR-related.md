@@ -5,3 +5,4 @@
 * FAIR = Findable, Accessibel, Interoperable, Reusable  
   [The FAIR Guiding Principles for scientific data management and stewardship](https://doi.org/10.1038/sdata.2016.18)
 
+![](https://images.squarespace-cdn.com/content/v1/5d3799de845604000199cd24/1567592828276-IZWQDX1H6DRCD85GRSWJ/CARE+Principles.png?format=2500w)
