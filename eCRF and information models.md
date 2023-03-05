@@ -1,5 +1,5 @@
 CDISC
-* [https://www.cdisc.org/kb/ecrf](eCRF portal), can be used with REDCap
+* [eCRF portal](https://www.cdisc.org/kb/ecrf), can be used with REDCap
 * ODM
 
-[https://jsonforms.io/](JSON Forms)
+[JSON Forms](https://jsonforms.io/)
