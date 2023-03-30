@@ -3,7 +3,7 @@
 So many resources, so little oversight. Trying to fix that, as least for myself, and for all interested.
 
 DASH
- : [Data Shapes Vocabulary](https://datashapes.org/dash#)
+: [Data Shapes Vocabulary](https://datashapes.org/dash#)
  
 DID
 : [Decentralized Identifiers](https://www.w3.org/TR/did-core/)
