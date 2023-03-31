@@ -16,3 +16,12 @@ So many resources, so little oversight. Trying to fix that, as least for myself,
 * SEMAPV: [A Vocabulary for Semantic Mappings](https://mapping-commons.github.io/semantic-mapping-vocabulary/)
 * SSSOM: [Simple Standard for Sharing Ontological Mappings](https://mapping-commons.github.io/sssom/spec/)
 * VoID: [Describing Linked Datasets with the VoID Vocabulary](https://www.w3.org/TR/void/)
+
+Metadata standards, various and sundry
+
+* CDISC PRM: [Protocol Representation Model](https://www.cdisc.org/standards/foundational/protocol#standard__versions)
+* DATS: [Data Tag Suite](https://github.com/datatagsuite)
+* LinkML: [Linked Data Modeling Language](https://github.com/linkml/linkml)
+* Medical Data Models: [Portal](https://medical-data-models.org/)
+* NLM VSAC: [Value Set Authority Center](https://vsac.nlm.nih.gov/)
+* NLM CDE Repository: [Common Data Elements](https://cde.nlm.nih.gov/)
