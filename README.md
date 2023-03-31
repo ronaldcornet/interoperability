@@ -20,10 +20,11 @@ So many resources, so little oversight. Trying to fix that, as least for myself,
 Metadata standards, various and sundry
 
 * [Algoritmeregister overheid](https://algoritmes.overheid.nl/) | [overzicht](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/algoritmes/algoritmeregister/)
-* * CDISC PRM: [Protocol Representation Model](https://www.cdisc.org/standards/foundational/protocol#standard__versions)
+* CDISC PRM: [Protocol Representation Model](https://www.cdisc.org/standards/foundational/protocol#standard__versions)
 * DATS: [Data Tag Suite](https://github.com/datatagsuite)
 * LinkML: [Linked Data Modeling Language](https://github.com/linkml/linkml)
 * Medical Data Models: [Portal](https://medical-data-models.org/)
 * NLM VSAC: [Value Set Authority Center](https://vsac.nlm.nih.gov/)
 * NLM CDE Repository: [Common Data Elements](https://cde.nlm.nih.gov/)
-* 
+
+
