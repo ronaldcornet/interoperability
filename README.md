@@ -28,6 +28,7 @@ Metadata standards, various and sundry
 
 * [Algoritmeregister overheid](https://algoritmes.overheid.nl/) | [overzicht](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/algoritmes/algoritmeregister/)
 * CDISC PRM: [Protocol Representation Model](https://www.cdisc.org/standards/foundational/protocol#standard__versions)
+* GConsent: [A consent ontology based on the GDPR](https://openscience.adaptcentre.ie/ontologies/GConsent/docs/ontology) [Consent through the lens of semantics: State of the art survey and best practices](https://content.iospress.com/articles/semantic-web/sw210438)
 * DATS: [Data Tag Suite](https://github.com/datatagsuite)
 * [EOSC Minimum metadata set recommendation](https://drive.google.com/file/d/19eJURTWjnrw16WnS_NeX-cOOm_lqEONF/view)
 ** NB: Uses DDI Analysis Unit: https://ddialliance.org/Specification/DDI-CV/AnalysisUnit_1.0.0.html
