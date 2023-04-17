@@ -1,4 +1,4 @@
-* C3Cloud: [Collaborative Care & Cure Cloud](https://c3-cloud.eu/)
+* C3-Cloud: [Collaborative Care & Cure Cloud](https://c3-cloud.eu/)
 * PHT:  [Personal Health Train](https://pht.health-ri.nl/)
 * SOLID: [https://solidproject.org/](Solid is a specification that lets people store their data securely in decentralized data stores called Pods)
 * SPHN: [Swiss Personalized Health Network](https://sphn.ch/network/projects/)
