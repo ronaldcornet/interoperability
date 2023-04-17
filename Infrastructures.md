@@ -1,0 +1,4 @@
+* PHT:  [Personal Health Train](https://pht.health-ri.nl/)
+* SOLID: [https://solidproject.org/](Solid is a specification that lets people store their data securely in decentralized data stores called Pods)
+* SPHN: [Swiss Personalized Health Network](https://sphn.ch/network/projects/)
+* Vantage6: [https://vantage6.ai/](privacy preserving federated learning infrastructure for secure insight exchange)
