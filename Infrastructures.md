@@ -1,6 +1,6 @@
 * Beacon: [GA4GH genetic mutation sharing platform](https://beacon-network.org/) | [API](https://beacon-network.org/#/developers/api/beacon-network)
 * C3-Cloud: [Collaborative Care & Cure Cloud](https://c3-cloud.eu/)
 * PHT:  [Personal Health Train](https://pht.health-ri.nl/)
-* SOLID: [https://solidproject.org/](Solid is a specification that lets people store their data securely in decentralized data stores called Pods)
+* SOLID: [Solid is a specification that lets people store their data securely in decentralized data stores called Pods](https://solidproject.org/)
 * SPHN: [Swiss Personalized Health Network](https://sphn.ch/network/projects/)
-* Vantage6: [https://vantage6.ai/](privacy preserving federated learning infrastructure for secure insight exchange)
+* Vantage6: [privacy preserving federated learning infrastructure for secure insight exchange](https://vantage6.ai/)
