@@ -1,5 +1,7 @@
 * Beacon: [GA4GH genetic mutation sharing platform](https://beacon-network.org/) | [API](https://beacon-network.org/#/developers/api/beacon-network)
 * C3-Cloud: [Collaborative Care & Cure Cloud](https://c3-cloud.eu/)
+* FLOWER: [A Friendly Federated Learning Framework](https://flower.dev/)
+* MP-SPDZ: [CSIRO Multi-party computation](https://github.com/data61/MP-SPDZ) Multi-Protocol SPDZ (for: Damgård Pastro Smart Zakarias)
 * PHT:  [Personal Health Train](https://pht.health-ri.nl/)
 * SOLID: [Solid is a specification that lets people store their data securely in decentralized data stores called Pods](https://solidproject.org/)
 * SPHN: [Swiss Personalized Health Network](https://sphn.ch/network/projects/)
