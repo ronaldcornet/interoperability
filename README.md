@@ -25,7 +25,6 @@ So many resources, so little oversight. Trying to fix that, as least for myself,
 
 Metadata standards, various and sundry
 * An overview: [Disciplinary Metadata](https://www.dcc.ac.uk/guidance/standards/metadata)
-
 * [Algoritmeregister overheid](https://algoritmes.overheid.nl/) | [overzicht](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/algoritmes/algoritmeregister/)
 * CDISC PRM: [Protocol Representation Model](https://www.cdisc.org/standards/foundational/protocol#standard__versions)
 * GConsent: [A consent ontology based on the GDPR](https://openscience.adaptcentre.ie/ontologies/GConsent/docs/ontology) | [Consent through the lens of semantics: State of the art survey and best practices](https://content.iospress.com/articles/semantic-web/sw210438)
