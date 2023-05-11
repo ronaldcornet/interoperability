@@ -24,6 +24,7 @@ So many resources, so little oversight. Trying to fix that, as least for myself,
 * VoID: [Describing Linked Datasets with the VoID Vocabulary](https://www.w3.org/TR/void/)
 
 Metadata standards, various and sundry
+
 * An overview: [Disciplinary Metadata](https://www.dcc.ac.uk/guidance/standards/metadata)
 * [Algoritmeregister overheid](https://algoritmes.overheid.nl/) | [overzicht](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/algoritmes/algoritmeregister/)
 * CDISC PRM: [Protocol Representation Model](https://www.cdisc.org/standards/foundational/protocol#standard__versions)
