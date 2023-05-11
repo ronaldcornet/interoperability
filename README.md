@@ -32,9 +32,10 @@ Metadata standards, various and sundry
 * DATS: [Data Tag Suite](https://github.com/datatagsuite)
 * [EOSC Minimum metadata set recommendation](https://drive.google.com/file/d/19eJURTWjnrw16WnS_NeX-cOOm_lqEONF/view)
 ** NB: Uses DDI Analysis Unit: https://ddialliance.org/Specification/DDI-CV/AnalysisUnit_1.0.0.html
+* FAIR Signposting: [FAIR Signposting](https://signposting.org/FAIR/)
 * LinkML: [Linked Data Modeling Language](https://github.com/linkml/linkml)
 * Medical Data Models: [Portal](https://medical-data-models.org/)
 * NLM VSAC: [Value Set Authority Center](https://vsac.nlm.nih.gov/)
 * NLM CDE Repository: [Common Data Elements](https://cde.nlm.nih.gov/)
-
+* RO-Crate: [Research Object - Crate](https://w3id.org/ro/crate): FAIR packaging of research objects
 
