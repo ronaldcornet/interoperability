@@ -2,6 +2,7 @@
 * C3-Cloud: [Collaborative Care & Cure Cloud](https://c3-cloud.eu/)
 * DataSHIELD: [Website](https://www.datashield.org/) | [github](https://github.com/datashield)
 * FLOWER: [A Friendly Federated Learning Framework](https://flower.dev/)
+* HyFed: [Hybrid Federated Framework for Privacy-preserving Machine Learning](https://github.com/tum-aimed/hyfed)
 * MP-SPDZ: [CSIRO Multi-party computation](https://github.com/data61/MP-SPDZ) Multi-Protocol SPDZ (for: Damgård Pastro Smart Zakarias)
 * PHT: [Personal Health Train](https://pht.health-ri.nl/)
 * OpenFL: [Open Federated Learning](https://github.com/securefederatedai/openfl)
