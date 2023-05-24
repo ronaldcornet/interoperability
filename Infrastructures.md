@@ -8,4 +8,5 @@
 * OpenFL: [Open Federated Learning](https://github.com/securefederatedai/openfl)
 * SOLID: [Solid is a specification that lets people store their data securely in decentralized data stores called Pods](https://solidproject.org/)
 * SPHN: [Swiss Personalized Health Network](https://sphn.ch/network/projects/)
+* Stackable: [The modular open source data platform](https://stackable.tech/en/)
 * Vantage6: [privacy preserving federated learning infrastructure for secure insight exchange](https://vantage6.ai/)
