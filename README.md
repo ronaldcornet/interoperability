@@ -2,7 +2,7 @@
 
 So many resources, so little oversight. Trying to fix that, as least for myself, and for all interested.
 
-* ccREL: [Creative Commons Rights Expression Language](https://creativecommons.org/schema.rdf) N.B. See: [REL(]https://en.wikipedia.org/wiki/Rights_Expression_Language)
+* ccREL: [Creative Commons Rights Expression Language](https://creativecommons.org/schema.rdf) N.B. See: [REL](https://en.wikipedia.org/wiki/Rights_Expression_Language)
 * CERIF: [Common European Research Information Format](https://eurocris.org/Uploads/Web%20pages/CERIF-1.6/documentation/MImage.html)
 * COAR: [Confederation of Open Access Repositories](https://vocabularies.coar-repositories.org/) Vocabularies
 * DASH: [Data Shapes Vocabulary](https://datashapes.org/dash#)
