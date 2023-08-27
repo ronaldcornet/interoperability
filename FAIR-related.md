@@ -4,6 +4,8 @@
   [Responsible Data Science](https://doi.org/10.1007/s12599-017-0487-z)
 * FAIR = Findable, Accessible, Interoperable, Reusable  
   [The FAIR Guiding Principles for scientific data management and stewardship](https://doi.org/10.1038/sdata.2016.18)
+* Five Safes: Safe projects, people, settings, data, outputs
+  [Five safes](https://en.wikipedia.org/wiki/Five_safes)
 * OCAP = Ownership, Control, Access and Possession [First Nations principles of OCAP](https://en.wikipedia.org/wiki/First_Nations_principles_of_OCAP)
 * TRUST = Transparency, Responsibility, User focus, Sustainability and Technology  
   [The TRUST Principles for digital repositories](https://www.nature.com/articles/s41597-020-0486-7)
