@@ -19,3 +19,4 @@
 ## FAIR software
 * [Research Software Directory](https://research-software-directory.org/organisations/amsterdam-university-medical-centers)
 ## FAIR education
+* [Open Educational Resources](https://github.com/ronaldcornet/openeducationalresources)
