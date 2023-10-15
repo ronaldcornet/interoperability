@@ -12,6 +12,8 @@ So many resources, so little oversight. Trying to fix that, as least for myself,
 * DUO: [Data Use Ontology](https://obofoundry.org/ontology/duo.html)
 * EDMI: [EOSC Datasets Minimum Information](https://eosc-edmi.github.io/properties)
 * FNO: [Function Ontology](https://fno.io/ontology/index-en.html)
+* HDF5: [Hierarchical Data Format](https://www.loc.gov/preservation/digital/formats/fdd/fdd000229.shtml)
+* HUB: [Hub dataset format](https://pypi.org/project/hub/2.8.1/)
 * MOD: [Metadata for Ontology Description and publication](https://www.isibang.ac.in/ns/mod/index.html)
 * MSCR: [Metadata Schema and Crosswalk Registry](https://faircore4eosc.eu/components/metadata-schema-and-crosswalk-registry-mscr)
 * ODRL: [Open Digital Rights Language](https://www.w3.org/TR/odrl-model/)
