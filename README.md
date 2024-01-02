@@ -24,7 +24,7 @@ So many resources, so little oversight. Trying to fix that, as least for myself,
 * SDMX: [Statistical Data and Metadata Exchange Initiative](http://sdmx.org/)
 * SEMAPV: [A Vocabulary for Semantic Mappings](https://mapping-commons.github.io/semantic-mapping-vocabulary/)
 * SSSOM: [Simple Standard for Sharing Ontological Mappings](https://mapping-commons.github.io/sssom/spec/)
-* VoID: [Describing Linked Datasets with the VoID Vocabulary](https://www.w3.org/TR/void/)
+* VoID: [Describing Linked Datasets with the VoID Vocabulary](https://www.w3.org/TR/void/). See example on [metadatamatic](https://wimmics.github.io/voidmatic/?description=H4sIAAAAAAAAA3VRy27DIBD8Go5F2Gs3ztFt0lNPjfIB1GxSJMumLIrz-VlT4qYVllZoH7MzA4hKOY8nexWlMp0OAlrOBLx-heBi8cYxTZOcQI7-zMVAfERsCQL2UqhWPLDg9Q8HLSQozzHJLV1Ga_LS3pzoUTgisxzm060o8wSN1YnmvqraaNXooAnD3OHVeyRDXa-JkHVV1cAzbAW85IHOjw59sBFbV01RrkLJaf_d7wfjRjuExfhPe3UreOv6yF4UdbltFGxqLuS_azwR-ovtkNv690t3PDykAQssfUwmjh_vGR8LbOZE2qWHSl-cBGcDN1LFk5pFAgAA)
 
 Metadata standards, various and sundry
 
