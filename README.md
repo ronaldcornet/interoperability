@@ -33,6 +33,7 @@ Metadata standards, various and sundry
 * CDISC PRM: [Protocol Representation Model](https://www.cdisc.org/standards/foundational/protocol#standard__versions)
 * GConsent: [A consent ontology based on the GDPR](https://openscience.adaptcentre.ie/ontologies/GConsent/docs/ontology) | [Consent through the lens of semantics: State of the art survey and best practices](https://content.iospress.com/articles/semantic-web/sw210438)
 * DATS: [Data Tag Suite](https://github.com/datatagsuite)
+* DMO-core: [Core Dataset Metadata Ontology](https://w3id.org/dmo) - [publication](https://doi.org/10.1007/978-3-031-17105-5_13)
 * [EOSC Minimum metadata set recommendation](https://drive.google.com/file/d/19eJURTWjnrw16WnS_NeX-cOOm_lqEONF/view)
 ** NB: Uses DDI Analysis Unit: https://ddialliance.org/Specification/DDI-CV/AnalysisUnit_1.0.0.html
 * FAIR Signposting: [FAIR Signposting](https://signposting.org/FAIR/)
