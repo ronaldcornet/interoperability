@@ -12,6 +12,8 @@
   [Five safes](https://en.wikipedia.org/wiki/Five_safes)
 * OCAP = Ownership, Control, Access and Possession  
   [First Nations principles of OCAP](https://en.wikipedia.org/wiki/First_Nations_principles_of_OCAP)
+* TAPS-RM = Transparency, Accountability, Privacy, and Societal Responsibility Matrix
+  [Framework to explore social, legal, and ethical aspects of data science projects](https://doi.org/10.48550/arXiv.2302.01041)
 * TRUST = Transparency, Responsibility, User focus, Sustainability and Technology  
   [The TRUST Principles for digital repositories](https://www.nature.com/articles/s41597-020-0486-7)
 
