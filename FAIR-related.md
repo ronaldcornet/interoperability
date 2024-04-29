@@ -10,6 +10,8 @@
   [De FAST-principes van AI](https://boommanagement.nl/artikel/de-fast-principes-van-ai-fairness-accountability-safety-transparency/)
 * Five Safes: Safe projects, people, settings, data, outputs  
   [Five safes](https://en.wikipedia.org/wiki/Five_safes)
+* I CARE: Integrity, Commitment, Advocacy, Respect, and Excellence.
+  [VA Core Values](https://www.va.gov/icare/)
 * OCAP = Ownership, Control, Access and Possession  
   [First Nations principles of OCAP](https://en.wikipedia.org/wiki/First_Nations_principles_of_OCAP)
 * TAPS-RM = Transparency, Accountability, Privacy, and Societal Responsibility Matrix  
