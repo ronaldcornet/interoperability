@@ -14,6 +14,8 @@
   [VA Core Values](https://www.va.gov/icare/)
 * OCAP = Ownership, Control, Access and Possession  
   [First Nations principles of OCAP](https://en.wikipedia.org/wiki/First_Nations_principles_of_OCAP)
+* RECORD = REporting of studies Conducted using Observational Routinely-collected Data
+  [The REporting of studies Conducted using Observational Routinely-collected health Data (RECORD) statement](https://doi.org/10.1371/journal.pmed.1001885)
 * TAPS-RM = Transparency, Accountability, Privacy, and Societal Responsibility Matrix  
   [Framework to explore social, legal, and ethical aspects of data science projects](https://doi.org/10.48550/arXiv.2302.01041)
 * TRUST = Transparency, Responsibility, User focus, Sustainability and Technology  
