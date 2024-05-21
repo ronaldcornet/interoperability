@@ -1,5 +1,7 @@
 # FAIR-related abbreviations
 
+* AWESOME = All-inclusive, Worldwide ranging, Equitable, Sincere, Open-minded, Mindfull of our own implicit bias and Essential
+  [Let us Dance Around the World! Toward More Diversity, Equity, and Inclusion in Research](https://journals.humankinetics.com/view/journals/jmpb/6/1/article-p1.xml)
 * CARE = Collective Benefit; Authority to Control; Responsibility; Ethics  
   [The CARE Principles for Indigenous Data Governance](https://doi.org/10.5334/dsj-2020-042)
 * FACT = Fair, Accurate, Confidential and Transparent  
@@ -20,6 +22,8 @@
   [Framework to explore social, legal, and ethical aspects of data science projects](https://doi.org/10.48550/arXiv.2302.01041)
 * TRUST = Transparency, Responsibility, User focus, Sustainability and Technology  
   [The TRUST Principles for digital repositories](https://www.nature.com/articles/s41597-020-0486-7)
+  WEIRD = (regarding) Western, Educated, Industrialized, Rich and Democratic countries
+  [Q&A on WEIRD](https://weirdpeople.fas.harvard.edu/qa-weird)
 
 ![](https://images.squarespace-cdn.com/content/v1/5d3799de845604000199cd24/1567592828276-IZWQDX1H6DRCD85GRSWJ/CARE+Principles.png?format=2500w)
 
