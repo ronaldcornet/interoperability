@@ -14,6 +14,7 @@ So many resources, so little oversight. Trying to fix that, as least for myself,
 * FNO: [Function Ontology](https://fno.io/ontology/index-en.html)
 * HDF5: [Hierarchical Data Format](https://www.loc.gov/preservation/digital/formats/fdd/fdd000229.shtml)
 * HUB: [Hub dataset format](https://pypi.org/project/hub/2.8.1/)
+* I-ADOPT: [InteroperAble Descriptions of Observable Property Terminology](https://i-adopt.github.io/)
 * MOD: [Metadata for Ontology Description and publication](https://www.isibang.ac.in/ns/mod/index.html)
 * MSCR: [Metadata Schema and Crosswalk Registry](https://faircore4eosc.eu/components/metadata-schema-and-crosswalk-registry-mscr)
 * ODRL: [Open Digital Rights Language](https://www.w3.org/TR/odrl-model/)
