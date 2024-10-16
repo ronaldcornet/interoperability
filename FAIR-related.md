@@ -33,3 +33,5 @@
 * [Research Software Directory](https://research-software-directory.org/organisations/amsterdam-university-medical-centers)
 ## FAIR education
 * [Open Educational Resources](https://github.com/ronaldcornet/openeducationalresources)
+## FAIR Data Stewardship
+* [Handbook for Adequate Natural Data Stewardship](https://www.health-ri.nl/en/data-stewardship-handbook-hands)
