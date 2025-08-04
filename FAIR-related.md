@@ -23,7 +23,7 @@
 * TAPS-RM = Transparency, Accountability, Privacy, and Societal Responsibility Matrix  
   [Framework to explore social, legal, and ethical aspects of data science projects](https://doi.org/10.48550/arXiv.2302.01041)
 * TRUE = Trustworthy, Reusable, Understandable data Elements  
-  [Reference missing](http://example.com/)
+  [Standards in sync: five principles to achieve semantic interoperability for TRUE research for healthcare]([http://example.com/](https://doi.org/10.3389/fdgth.2025.1567624)
 * TRUST = Transparency, Responsibility, User focus, Sustainability and Technology  
   [The TRUST Principles for digital repositories](https://www.nature.com/articles/s41597-020-0486-7)
 * WEIRD = (regarding) Western, Educated, Industrialized, Rich and Democratic countries  
