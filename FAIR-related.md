@@ -14,7 +14,7 @@
   [De FAST-principes van AI](https://boommanagement.nl/artikel/de-fast-principes-van-ai-fairness-accountability-safety-transparency/)
 * Five Safes: Safe projects, people, settings, data, outputs  
   [Five safes](https://en.wikipedia.org/wiki/Five_safes)
-* FUPS =  Flawed, Uncertain, Proximate, and Sparse Data
+* FUPS =  Flawed, Uncertain, Proximate, and Sparse Data  
   [FUPS data](https://www.corc.uk.net/media/1533/fupsleaflet.pdf) 
 * I CARE: Integrity, Commitment, Advocacy, Respect, and Excellence.  
   [VA Core Values](https://www.va.gov/icare/)
