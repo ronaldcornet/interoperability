@@ -4,6 +4,8 @@
   [Let us Dance Around the World! Toward More Diversity, Equity, and Inclusion in Research](https://journals.humankinetics.com/view/journals/jmpb/6/1/article-p1.xml)
 * CARE = Collective Benefit; Authority to Control; Responsibility; Ethics  
   [The CARE Principles for Indigenous Data Governance](https://doi.org/10.5334/dsj-2020-042)
+* CLEAR Principle = Cognitively interoperable, semantically Linked, contextually Explorable, intuitively Accessible, and human-Readable and -interpretable data and metadata
+  [The CLEAR Principle: organizing data and metadata into semantically meaningful types of FAIR Digital Objects to increase their human explorability and cognitive interoperability](https://jbiomedsem.biomedcentral.com/articles/10.1186/s13326-025-00340-7)
 * DREAM = Discoverable Data with Reproducible Results for Equivalent Entities with Accessible Attributes and Manageable Metadata
   [DREAM Principles and FAIR Metrics from the PORTAL-DOORS Project for the Semantic Web](https://doi.org/10.1109/ECAI46879.2019.9042003)
 * FACT = Fair, Accurate, Confidential and Transparent  
