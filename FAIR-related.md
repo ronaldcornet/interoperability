@@ -28,7 +28,7 @@
   [The REporting of studies Conducted using Observational Routinely-collected health Data (RECORD) statement](https://doi.org/10.1371/journal.pmed.1001885)
 * SMART = Sensing, Meaningful, Advantageous, Regulation compliant, Techniques  
   [S.M.A.R.T. data is what you need](https://www.linkedin.com/pulse/smart-data-what-you-need-forget-fair-andrea-splendiani-eodqe/)
-* SOLID = Single responsibility, Open–closed, Liskov substitution, Interface segregation, Dependency inversion
+* SOLID = Single responsibility, Open–closed, Liskov substitution, Interface segregation, Dependency inversion  
   [SOLID Principles](https://en.wikipedia.org/wiki/SOLID)
 * TAPS-RM = Transparency, Accountability, Privacy, and Societal Responsibility Matrix  
   [Framework to explore social, legal, and ethical aspects of data science projects](https://doi.org/10.48550/arXiv.2302.01041)
