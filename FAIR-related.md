@@ -26,6 +26,8 @@
   [First Nations principles of OCAP](https://en.wikipedia.org/wiki/First_Nations_principles_of_OCAP)
 * RECORD = REporting of studies Conducted using Observational Routinely-collected Data  
   [The REporting of studies Conducted using Observational Routinely-collected health Data (RECORD) statement](https://doi.org/10.1371/journal.pmed.1001885)
+* SHARE = Standardization, Hierarchical structuring, Analytical compatibility, Regulatory compliance, Evolutionary adaptability  
+  [Biobanking for intelligent medicine: assessment and evaluation with the SHARE principle](https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocag052/8663111)
 * SMART = Sensing, Meaningful, Advantageous, Regulation compliant, Techniques  
   [S.M.A.R.T. data is what you need](https://www.linkedin.com/pulse/smart-data-what-you-need-forget-fair-andrea-splendiani-eodqe/)
 * SOLID = Single responsibility, Open–closed, Liskov substitution, Interface segregation, Dependency inversion  
