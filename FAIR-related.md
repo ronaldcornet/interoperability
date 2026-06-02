@@ -26,6 +26,8 @@
   [First Nations principles of OCAP](https://en.wikipedia.org/wiki/First_Nations_principles_of_OCAP)
 * RECORD = REporting of studies Conducted using Observational Routinely-collected Data  
   [The REporting of studies Conducted using Observational Routinely-collected health Data (RECORD) statement](https://doi.org/10.1371/journal.pmed.1001885)
+* ROCKET = Raadpleeg ..., Onderzoekspopulaties ..., Context, Kennis ..., Equity, Testen  
+  [Sociale innovatie: ROCKET-principes](https://www.pharos.nl/sociale-innovatie-rocketprincipes/)
 * SHARE = Standardization, Hierarchical structuring, Analytical compatibility, Regulatory compliance, Evolutionary adaptability  
   [Biobanking for intelligent medicine: assessment and evaluation with the SHARE principle](https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocag052/8663111)
 * SMART = Sensing, Meaningful, Advantageous, Regulation compliant, Techniques  
